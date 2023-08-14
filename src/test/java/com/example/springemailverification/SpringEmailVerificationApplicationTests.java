@@ -1,0 +1,13 @@
+package com.example.springemailverification;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringEmailVerificationApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

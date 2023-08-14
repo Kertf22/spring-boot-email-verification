@@ -1,0 +1,15 @@
+--
+--
+--
+-- CREATE TABLE USERS (
+--     id TEXT PRIMARY KEY UNIQUE NOT NULL,
+--     name VARCHAR(255) NOT NULL,
+--     password VARCHAR(255) NOT NULL,
+--     email VARCHAR(255) NOT NULL,
+--     points INT NOT NULL
+-- );
+--
+-- CREATE TABLE confirmation (
+--     id TEXT PRIMARY KEY UNIQUE NOT NULL,
+--
+-- );
